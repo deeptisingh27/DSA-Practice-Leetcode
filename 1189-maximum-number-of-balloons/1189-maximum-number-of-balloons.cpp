@@ -1,8 +1,8 @@
 class Solution {
 public:
     int maxNumberOfBalloons(string text) {
-        
-        int n = text.size();
+
+        //T.C = O(n) , S.C = O(1)
 
         vector<int> freq(26, 0);
 
@@ -12,6 +12,7 @@ public:
 
         int count = INT_MAX;
         
+        //b a ll oo n
         count = min(count, freq['b'-'a']);
         count = min(count, freq['a'-'a']);
         count = min(count, freq['l'-'a'] / 2);
