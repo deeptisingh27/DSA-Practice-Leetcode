@@ -54,7 +54,6 @@ public:
         */
 
 
-        /*
         //APPROACH 3
         //T.C. = O(n^2)
         int ans=0;
@@ -74,30 +73,6 @@ public:
         }
 
         return ans;        
-        */
-
-
-        //APPROACH 4
-        //T.C. = O(n^2)
-
-        int ans=0;
-
-        for (int i=0; i<nums.size() ; i++) {
-            //cumulative balance for subarrays starting at index i
-            int count = 0;
-
-            for (int j=i ; j<nums.size() ; j++) {
-
-                //update cumulative balance
-                count += (nums[j] == target ? 1 : -1);
-
-                if (count > 0) 
-                    ans++;
-
-            }
-        }
-
-        return ans;
 
     }
 };
