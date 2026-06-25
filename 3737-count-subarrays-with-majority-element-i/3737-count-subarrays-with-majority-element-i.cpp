@@ -13,7 +13,7 @@ public:
 
                 int count=0;
 
-                // {i..j}
+                // count target occurrences in subarray {i..j}
                 for(int k=i ; k<=j ; k++){
                     if(nums[k] == target) 
                         count++;
@@ -41,6 +41,7 @@ public:
             
             for(int j=i ; j<nums.size() ; j++){
 
+                //maintain the count with j
                 count += (nums[j] == target ? 1 : 0);
 
                 int len = j - i + 1;
@@ -53,6 +54,7 @@ public:
         */
 
 
+        /*
         //APPROACH 3
         //T.C. = O(n^2)
         int ans=0;
@@ -62,15 +64,40 @@ public:
             
             for(int j=i ; j<nums.size() ; j++){
 
+                //Replace: target -> +1 , non-target -> -1
                 count += (nums[j] == target ? 1 : -1);
 
-                if(count > 0) //{i..j} has target as majority element
+                //{i..j} has target as majority element
+                if(count > 0) 
                     ans++;
             }
         }
 
+        return ans;        
+        */
+
+
+        //APPROACH 4
+        //T.C. = O(n^2)
+
+        int ans=0;
+
+        for (int i=0; i<nums.size() ; i++) {
+            //cumulative balance for subarrays starting at index i
+            int count = 0;
+
+            for (int j=i ; j<nums.size() ; j++) {
+
+                //update cumulative balance
+                count += (nums[j] == target ? 1 : -1);
+
+                if (count > 0) 
+                    ans++;
+
+            }
+        }
+
         return ans;
-        
 
     }
 };
