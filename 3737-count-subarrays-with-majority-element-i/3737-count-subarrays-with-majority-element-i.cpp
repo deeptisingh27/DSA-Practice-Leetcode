@@ -3,7 +3,7 @@ public:
     int countMajoritySubarrays(vector<int>& nums, int target) {
 
         /*
-        //APPROACH 1 TLE 
+        //APPROACH 1 : gives TLE 
         //T.C. = O(n^3) 
 
         int ans=0;
@@ -19,7 +19,9 @@ public:
                         count++;
                 }
 
-                if(count > (j-i+1) / 2) 
+                int len = j - i + 1;
+
+                if(count > len / 2) 
                     ans++;
             }
         }
@@ -28,6 +30,7 @@ public:
         */
 
 
+        /*
         //APPROACH 2 
         //T.C. = O(n^2) 
 
@@ -40,12 +43,34 @@ public:
 
                 count += (nums[j] == target ? 1 : 0);
 
-                if(count > (j-i+1) / 2) 
+                int len = j - i + 1;
+                if(count > len / 2) 
                     ans++;
             }
         }
 
         return ans;
+        */
+
+
+        //APPROACH 3
+        //T.C. = O(n^2)
+        int ans=0;
+
+        for(int i=0 ; i<nums.size() ; i++){
+            int count=0;
+            
+            for(int j=i ; j<nums.size() ; j++){
+
+                count += (nums[j] == target ? 1 : -1);
+
+                if(count > 0) //{i..j} has target as majority element
+                    ans++;
+            }
+        }
+
+        return ans;
+        
 
     }
 };
