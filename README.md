@@ -79,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1288-remove-covered-intervals) |
+## Database
+|  |
+| ------- |
+| [1193-monthly-transactions-i](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1193-monthly-transactions-i) |
 <!---LeetCode Topics End-->
