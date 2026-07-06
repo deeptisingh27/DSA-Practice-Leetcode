@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0053-maximum-subarray) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/3620-network-recovery-pathways) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0001-two-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
