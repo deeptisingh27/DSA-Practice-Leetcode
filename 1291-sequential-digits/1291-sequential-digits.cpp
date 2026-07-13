@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> sequentialDigits(int low, int high) {
-        
+        /*
         //BFS   T.C = S.C. = O(1)
 
         queue<int> q;
@@ -27,12 +27,11 @@ public:
         }
         
         return ans;
-
-        
-        /*
+        */
 
 
         //approach 2    T.C = S.C. = O(1)
+        
         string s = "123456789";
         vector<int> ans;
 
@@ -45,6 +44,6 @@ public:
         }
 
         return ans;
-        */
+        
     }
 };
