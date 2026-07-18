@@ -12,7 +12,7 @@ public:
 
     int findGCD(vector<int>& nums) {
         //Euclidean Algorithm
-        //O(n) time , O(1) space
+        //T.C = O(n) , S.C = O(1)
 
         int a = INT_MIN; //max element of array
         int b = INT_MAX; //min element of array
