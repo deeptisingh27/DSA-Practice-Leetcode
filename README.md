@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3312-sorted-gcd-pair-queries](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -41,12 +42,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Breadth-First Search
