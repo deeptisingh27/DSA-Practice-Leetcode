@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -218,4 +221,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
