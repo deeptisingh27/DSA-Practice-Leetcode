@@ -1,6 +1,7 @@
 class Solution {
 public:
     int maxProduct(int n) {
+        /*
         //T.C = O(log10n) , S.C = O(1)
 
         int ans = 0;
@@ -17,5 +18,22 @@ public:
         }
 
         return ans;
+        */
+
+
+        //usings orting
+        //T.C = O(n log n) , S.C = O(n)
+
+        string s = to_string(n);
+
+        sort(s.begin(), s.end());
+
+        int len = s.size();
+
+        //convert the last two char digits back to int values
+        int max1 = s[len - 1] - '0';
+        int max2 = s[len - 2] - '0';
+
+        return max1 * max2;
     }
 };
