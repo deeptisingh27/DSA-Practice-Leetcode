@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [1301-number-of-paths-with-max-score](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
