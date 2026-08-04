@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0485-max-consecutive-ones](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
