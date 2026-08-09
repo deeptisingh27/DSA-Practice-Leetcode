@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1406-stone-game-iii) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1140-stone-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Linked List
@@ -292,13 +296,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
