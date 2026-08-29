@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1158-market-analysis-i](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1158-market-analysis-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1193-monthly-transactions-i) |
 ## Math
