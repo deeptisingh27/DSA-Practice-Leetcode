@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1927-sum-game](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1927-sum-game](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
