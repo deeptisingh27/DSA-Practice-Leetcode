@@ -1,19 +1,27 @@
 class Solution {
 public:
     int firstStableIndex(vector<int>& nums, int k) {
+        //T.C = O(n^2) , S.C = O(1)
+
         int n = nums.size();
 
-        int maxi = INT_MIN;
-        int mini = INT_MAX;
-        int score = INT_MAX;
-
         for(int i=0 ; i<n ; i++){
-            maxi = *max_element(nums.begin(), nums.begin() + i + 1);
-            mini = *min_element(nums.begin() + i, nums.end());
+            int maxi = INT_MIN;
+            int mini = INT_MAX;
 
-            score = maxi - mini;
+            // maxi = *max_element(nums.begin(), nums.begin() + i + 1);
+            // mini = *min_element(nums.begin() + i, nums.end());
 
-            if(score <= k){
+            
+            for(int j=0 ; j<=i ; j++){
+                maxi = max(maxi, nums[j]);
+            }
+
+            for(int j=i ; j<=n-1 ; j++){
+                mini = min(mini, nums[j]);
+            }
+
+            if(maxi - mini <= k){
                 return i;
             }
         }
