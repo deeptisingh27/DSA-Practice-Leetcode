@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0062-unique-paths) |
 | [0115-distinct-subsequences](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0877-stone-game) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0836-rectangle-overlap) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0062-unique-paths) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
