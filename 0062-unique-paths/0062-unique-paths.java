@@ -20,9 +20,11 @@ class Solution {
         return solve(m, n, dp);
         */
 
-        //BOTTOM UP DP (recursion + memoization)
+
+        //BOTTOM UP DP
         //T.C = O(m*n) = S.C
 
+        /*
         int[][] dp = new int[m][n];
 
         // only 1 way to reach any cell in the first column (all Down moves)
@@ -43,5 +45,23 @@ class Solution {
         }
 
         return dp[m-1][n-1];
+        */
+
+
+        //Space-Optimized DP
+        //T.C = O(m*n) , S.C = O(n)
+
+        int[] dp = new int[n];
+        
+        Arrays.fill(dp, 1);
+
+        for (int i=1 ; i<m ; i++){
+            for (int j=1 ; j<n ; j++){
+                // dp[j] (new) = dp[j] (from row above) + dp[j - 1] (from left in current row)
+                dp[j] += dp[j-1];
+            }
+        }
+
+        return dp[n-1];
     }
 }
