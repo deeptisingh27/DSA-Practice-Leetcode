@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0169-majority-element) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0283-move-zeroes) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
