@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0169-majority-element) |
+| [1096-brace-expansion-ii](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0940-distinct-subsequences-ii](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0547-number-of-provinces) |
+| [1096-brace-expansion-ii](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -426,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -453,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1096-brace-expansion-ii](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Game Theory
 |  |
