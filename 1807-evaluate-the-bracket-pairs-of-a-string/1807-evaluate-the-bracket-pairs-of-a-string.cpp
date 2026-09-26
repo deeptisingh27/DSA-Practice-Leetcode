@@ -34,4 +34,3 @@ public:
         return result;
     }
 };
-//gemini se chaapa
