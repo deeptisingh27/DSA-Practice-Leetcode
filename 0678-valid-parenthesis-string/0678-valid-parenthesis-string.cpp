@@ -8,7 +8,7 @@ public:
         }
         
         if(t[idx][open] != -1) {
-            return t[idx][open] == 1 ? true : false;
+            return t[idx][open];
         }
         
         bool isValid = false;
