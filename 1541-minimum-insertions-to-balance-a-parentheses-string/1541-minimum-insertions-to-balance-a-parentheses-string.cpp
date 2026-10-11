@@ -5,7 +5,7 @@ public:
         //T.C = O(n) , S.C = O(1)
 
         int n = s.length();
-        int result = 0; //insertions
+        int ans = 0; //insertions
 
         int count = 0;
         int i = 0;
@@ -14,22 +14,25 @@ public:
             if(s[i] == '(') {
                 count++;
                 i++;
-            } else { //')'
-                if(count > 0) {
+            } 
+            else { //')'
+                if(count > 0) { //check if this closing bracket had opening bracket
                     count--;
-                } else {
-                    result++; //adding a '('
+                } 
+                else {
+                    ans++; //adding a '('
                 }
 
                 if(i+1 < n && s[i+1] == ')') {
                     i += 2;
-                } else {
-                    result++; //adding a ')'
+                } 
+                else {
+                    ans++; //adding a ')'
                     i++;
                 }
             }
         }
 
-        return result + count*2;
+        return ans + count*2; //agr count(open brackets) bach gaye toh har open bracket ke liye 2 closing bracketbhi add kro ans me
     }
 };
