@@ -3,7 +3,6 @@ public:
     int minSubArrayLen(int target, vector<int>& nums) {
 
         /*
-
         //BRUTE FORCE: gives TLE
         //T.C = O(n^2) , S.C = O(1)
 
@@ -35,7 +34,7 @@ public:
         int i = 0, j = 0;
         int sum = 0;
 
-        while(j<n){
+        for(j=0 ; j<n ; j++){
             sum += nums[j];
 
             while(sum >= target){
@@ -44,10 +43,8 @@ public:
                 sum -= nums[i];
                 i++;
             }
-
-            j++;
         }
 
-        return (l == INT_MAX) ? 0 : l;;
+        return (l == INT_MAX) ? 0 : l;
     }
 };
