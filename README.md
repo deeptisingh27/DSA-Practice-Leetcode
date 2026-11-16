@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2409-count-days-spent-together](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1260-shift-2d-grid](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1260-shift-2d-grid) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/deeptisingh27/DSA-Practice-Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
